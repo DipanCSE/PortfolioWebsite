@@ -10,5 +10,3 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## Technologies Used
 - Frontend: [e.g., HTML, CSS, JavaScript]
-- Database: [e.g., MySQL, MongoDB]
-- Other tools: [e.g., Git, Docker]
