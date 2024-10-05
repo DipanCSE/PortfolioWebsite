@@ -306,7 +306,6 @@ body.prevent-background-scroll {
 .about-container p {
   line-height: 1.6;
   font-size: 1.1rem;
-  text-align: justify;
 }
 
 .about-container .img-frame {
